@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edit in master branch
+=======
+edit in dev branch
+>>>>>>> dev
 
